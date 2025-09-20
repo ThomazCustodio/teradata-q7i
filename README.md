@@ -1,0 +1,1 @@
+# teradata-q7i
